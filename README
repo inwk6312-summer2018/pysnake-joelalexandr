@@ -1,0 +1,7 @@
+Requirements : use arrow keys from keyboard as input to the game to move the snake around
+Condition : snake has to eat a food to grow to a length of one.
+	snake dies if the player hits the boundray or hits itself
+Scores : scores are calculated inaccordance to the number of food being ate
+	highscores are stored seperatly
+level : speed of the snake moving around the screen is gradually increased with the number of food being had.
+	when the snake grows to the maximum of the screen size, new screen in opened with the snake being small and the scores are carried over.
